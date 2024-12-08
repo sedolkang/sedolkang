@@ -1,5 +1,5 @@
-## Hi there 👋
-## 🔭 I’m currently working on biology.
+## Hi 👋
+## 🔭 I’m currently into biology.
 ## 🌱 I’m currently learning bioinformatics.
 ## 🤔 I’m looking for help with making codes needed for analyzing sequence, protein etc.
 ## 📫 You can contact me in sedolkang@naver.com
